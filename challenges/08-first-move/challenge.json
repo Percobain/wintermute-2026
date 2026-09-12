@@ -1,0 +1,21 @@
+{
+  "title": "First Move",
+  "type": "analysis",
+  "tier": 3,
+  "parts": [
+    {
+      "key": "ink_claim",
+      "prompt": "Ink bytes32 claim for the first root attack",
+      "format": "tx_hash",
+      "points": 75,
+      "hash": "ef649bd995aadfd61428ed3a8baca01dc74b58b31c1dea47022aaf675309dc35"
+    },
+    {
+      "key": "op_claim",
+      "prompt": "Optimism bytes32 claim for the first root attack",
+      "format": "tx_hash",
+      "points": 75,
+      "hash": "6be622754fc51232a3f3a1c13b3b33ce044d18a1009f0ae94506393c30bf1b69"
+    }
+  ]
+}

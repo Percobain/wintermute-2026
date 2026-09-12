@@ -1,0 +1,35 @@
+{
+  "title": "Smart Money",
+  "type": "analysis",
+  "tier": 2,
+  "parts": [
+    {
+      "key": "protocol_one",
+      "prompt": "Name of the protocol the first fundraise (0xAf09...Dc95) was for",
+      "format": "string",
+      "points": 25,
+      "hash": "16226c82491cae67b60cc79262881653237502c9a64a231e9d8a4add6c469070"
+    },
+    {
+      "key": "investor_one",
+      "prompt": "Name of the VC behind 0xC29A...8C1f",
+      "format": "string",
+      "points": 25,
+      "hash": "189492f30117108c10ce46f3040ff61b5d2b5f62cb626abdbbfbbf28833ef702"
+    },
+    {
+      "key": "protocol_two",
+      "prompt": "Name of the protocol behind 0xe53e...AC8f",
+      "format": "string",
+      "points": 25,
+      "hash": "d01b57e65a1e85eba8b3743c2798bba1c7a3b11455579977aed68f48fc9f22fe"
+    },
+    {
+      "key": "company",
+      "prompt": "Name of the company behind 0x4c2c...00B8",
+      "format": "string",
+      "points": 25,
+      "hash": "17f29b073143d8cd97b5bbe492bdeffec1c5fee55cc1fe2112c8b9335f8b6121"
+    }
+  ]
+}

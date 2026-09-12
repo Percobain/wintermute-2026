@@ -1,0 +1,7 @@
+{
+  "title": "Firepit",
+  "type": "code",
+  "tier": 3,
+  "points": 150,
+  "env": ["XLAYER_RPC_URL"]
+}

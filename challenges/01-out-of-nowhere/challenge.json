@@ -1,0 +1,14 @@
+{
+  "title": "Out of Nowhere",
+  "type": "analysis",
+  "tier": 1,
+  "parts": [
+    {
+      "key": "origin_tx",
+      "prompt": "Hash of the transaction on the source chain that set the withdrawal in motion",
+      "format": "tx_hash",
+      "points": 25,
+      "hash": "111174d226157e1233bb1883d335f3a83f8e466c61af618744bc3f1286b159a3"
+    }
+  ]
+}

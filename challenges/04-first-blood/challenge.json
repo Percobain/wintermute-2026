@@ -1,0 +1,21 @@
+{
+  "title": "First Blood",
+  "type": "analysis",
+  "tier": 2,
+  "parts": [
+    {
+      "key": "first_snipe",
+      "prompt": "Signature of the first attempt to snipe the TRUMP token",
+      "format": "string",
+      "points": 50,
+      "hash": "ebeb4545bf3a95b81e65f5c6ea9fae37c5c58c8f1b240b4abf2c0a7dc838af50"
+    },
+    {
+      "key": "trading_possible",
+      "prompt": "Signature of the transaction that made TRUMP trading possible",
+      "format": "string",
+      "points": 50,
+      "hash": "a940ba443405825a20840cfdb47959513812b730c5cc7e08f90f9da19afbf4e2"
+    }
+  ]
+}

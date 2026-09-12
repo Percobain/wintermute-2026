@@ -1,0 +1,7 @@
+{
+  "title": "Cold Start",
+  "type": "code",
+  "tier": 3,
+  "points": 150,
+  "env": ["ROBINHOOD_RPC_URL"]
+}
