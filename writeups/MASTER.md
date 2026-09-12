@@ -244,7 +244,7 @@ identifier (`lockId`)** is the thread connecting the two halves, and that's what
    | recipient | `0xec5f…994b` | same ✅ |
    | destination | `ETH` | it's on Ethereum ✅ |
    | amount | 1,500,000 | 1,498,500 = 1.5M − 0.1% fee ✅ |
-   | time | 17:33:48 UTC | 17:56:59 UTC, 23 minutes later ✅ |
+   | time | 17:41:06 UTC (Stacks block) | 17:56:59 UTC, 16 minutes later ✅ |
 
 **Answer:** `origin_tx = 0x36f2d5c245d08de980d0d23e4bd23b088312ce9e4b9845b4fd71930f52aab8fc`
 
